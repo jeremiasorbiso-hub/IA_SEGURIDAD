@@ -1,0 +1,347 @@
+2026-01-22 12:18:15,290 - INFO - ======================================================================
+2026-01-22 12:18:15,304 - INFO - ======================================================================
+2026-01-22 12:18:18,453 - INFO - ======================================================================
+2026-01-22 12:19:43,136 - INFO - ======================================================================
+2026-01-22 12:19:43,144 - INFO - ======================================================================
+2026-01-22 12:19:45,446 - INFO - ======================================================================
+2026-01-22 12:20:59,080 - INFO - ======================================================================
+2026-01-22 12:20:59,080 - INFO - INICIANDO PREDICTOR DE INCIDENTES
+2026-01-22 12:20:59,080 - INFO - ======================================================================
+2026-01-22 12:20:59,080 - INFO - Dispositivo: cpu
+2026-01-22 12:20:59,080 - INFO - Cargando configuraci�n desde: model/checkpoints/model_config.json
+2026-01-22 12:20:59,081 - INFO - Cargando mapeos desde: data/processed/label_maps.json
+2026-01-22 12:20:59,082 - INFO - Cargando tokenizer...
+2026-01-22 12:20:59,800 - INFO - Construyendo modelo Multi-Head BERT...
+2026-01-22 12:21:00,589 - INFO - Cargando pesos desde: model/checkpoints/model_best.pt
+2026-01-22 12:21:01,070 - INFO - Modelo cargado correctamente
+2026-01-22 12:21:01,070 - INFO - Categor�as: ['cObjetivo', 'cMedioempleado', 'cModusoperandi', 'cMedios_fuga', 'cElementos_sustraidos', 'cLocalizacion', 'cGenero_Sexo', 'cEdad', 'cRectificacion_Tipo', 'cRectificacion_Subtipo']
+2026-01-22 12:21:01,070 - INFO - ======================================================================
+2026-01-22 12:21:01,084 - INFO - API iniciada correctamente
+2026-01-22 12:22:00,810 - INFO - ======================================================================
+2026-01-22 12:22:00,810 - INFO - INICIANDO PREDICTOR DE INCIDENTES
+2026-01-22 12:22:00,810 - INFO - ======================================================================
+2026-01-22 12:22:00,810 - INFO - Dispositivo: cpu
+2026-01-22 12:22:00,810 - INFO - Cargando configuraci�n desde: model/checkpoints/model_config.json
+2026-01-22 12:22:00,810 - INFO - Cargando mapeos desde: data/processed/label_maps.json
+2026-01-22 12:22:00,810 - INFO - Cargando tokenizer...
+2026-01-22 12:22:01,480 - INFO - Construyendo modelo Multi-Head BERT...
+2026-01-22 12:22:02,250 - INFO - Cargando pesos desde: model/checkpoints/model_best.pt
+2026-01-22 12:22:02,778 - INFO - Modelo cargado correctamente
+2026-01-22 12:22:02,779 - INFO - Categor�as: ['cObjetivo', 'cMedioempleado', 'cModusoperandi', 'cMedios_fuga', 'cElementos_sustraidos', 'cLocalizacion', 'cGenero_Sexo', 'cEdad', 'cRectificacion_Tipo', 'cRectificacion_Subtipo']
+2026-01-22 12:22:02,779 - INFO - ======================================================================
+2026-01-22 12:22:02,789 - INFO - API iniciada correctamente
+2026-01-22 12:22:19,425 - INFO - ======================================================================
+2026-01-22 12:22:19,425 - INFO - INICIANDO PREDICTOR DE INCIDENTES
+2026-01-22 12:22:19,425 - INFO - ======================================================================
+2026-01-22 12:22:19,425 - INFO - Dispositivo: cpu
+2026-01-22 12:22:19,425 - INFO - Cargando configuraci�n desde: model/checkpoints/model_config.json
+2026-01-22 12:22:19,426 - INFO - Cargando mapeos desde: data/processed/label_maps.json
+2026-01-22 12:22:19,427 - INFO - Cargando tokenizer...
+2026-01-22 12:22:20,095 - INFO - Construyendo modelo Multi-Head BERT...
+2026-01-22 12:22:21,131 - INFO - Cargando pesos desde: model/checkpoints/model_best.pt
+2026-01-22 12:22:22,789 - INFO - Modelo cargado correctamente
+2026-01-22 12:22:22,811 - INFO - Categor�as: ['cObjetivo', 'cMedioempleado', 'cModusoperandi', 'cMedios_fuga', 'cElementos_sustraidos', 'cLocalizacion', 'cGenero_Sexo', 'cEdad', 'cRectificacion_Tipo', 'cRectificacion_Subtipo']
+2026-01-22 12:22:22,813 - INFO - ======================================================================
+2026-01-22 12:22:22,827 - INFO - API iniciada correctamente
+2026-01-22 12:24:12,779 - INFO - ======================================================================
+2026-01-22 12:24:12,779 - INFO - INICIANDO PREDICTOR DE INCIDENTES
+2026-01-22 12:24:12,779 - INFO - ======================================================================
+2026-01-22 12:24:12,779 - INFO - Dispositivo: cpu
+2026-01-22 12:24:12,779 - INFO - Cargando configuración desde: model/checkpoints/model_config.json
+2026-01-22 12:24:12,779 - INFO - Cargando mapeos desde: data/processed/label_maps.json
+2026-01-22 12:24:12,779 - INFO - Cargando tokenizer...
+2026-01-22 12:24:13,449 - INFO - Construyendo modelo Multi-Head BERT...
+2026-01-22 12:24:14,420 - INFO - Cargando pesos desde: model/checkpoints/model_best.pt
+2026-01-22 12:24:14,879 - INFO - Modelo cargado correctamente
+2026-01-22 12:24:14,879 - INFO - Categorías: ['cObjetivo', 'cMedioempleado', 'cModusoperandi', 'cMedios_fuga', 'cElementos_sustraidos', 'cLocalizacion', 'cGenero_Sexo', 'cEdad', 'cRectificacion_Tipo', 'cRectificacion_Subtipo']
+2026-01-22 12:24:14,879 - INFO - ======================================================================
+2026-01-22 12:24:14,895 - INFO - API iniciada correctamente
+2026-01-22 12:29:18,071 - INFO - ======================================================================
+2026-01-22 12:29:18,071 - INFO - INICIANDO PREDICTOR DE INCIDENTES
+2026-01-22 12:29:18,071 - INFO - ======================================================================
+2026-01-22 12:29:18,071 - INFO - Dispositivo: cpu
+2026-01-22 12:29:18,071 - INFO - Cargando configuración desde: model/checkpoints/model_config.json
+2026-01-22 12:29:18,071 - INFO - Cargando mapeos desde: data/processed/label_maps.json
+2026-01-22 12:29:18,071 - INFO - Cargando tokenizer...
+2026-01-22 12:29:19,010 - INFO - Construyendo modelo Multi-Head BERT...
+2026-01-22 12:29:20,068 - INFO - Cargando pesos desde: model/checkpoints/model_best.pt
+2026-01-22 12:29:22,242 - INFO - Modelo cargado correctamente
+2026-01-22 12:29:22,258 - INFO - Categorías: ['cObjetivo', 'cMedioempleado', 'cModusoperandi', 'cMedios_fuga', 'cElementos_sustraidos', 'cLocalizacion', 'cGenero_Sexo', 'cEdad', 'cRectificacion_Tipo', 'cRectificacion_Subtipo']
+2026-01-22 12:29:22,258 - INFO - ======================================================================
+2026-01-22 12:29:22,289 - INFO - API iniciada correctamente
+2026-01-22 12:30:59,003 - INFO - ======================================================================
+2026-01-22 12:30:59,003 - INFO - INICIANDO PREDICTOR DE INCIDENTES
+2026-01-22 12:30:59,003 - INFO - ======================================================================
+2026-01-22 12:30:59,003 - INFO - Dispositivo: cpu
+2026-01-22 12:30:59,003 - INFO - Cargando configuración desde: model/checkpoints/model_config.json
+2026-01-22 12:30:59,018 - INFO - Cargando mapeos desde: data/processed/label_maps.json
+2026-01-22 12:30:59,018 - INFO - Cargando tokenizer...
+2026-01-22 12:30:59,681 - INFO - Construyendo modelo Multi-Head BERT...
+2026-01-22 12:31:00,698 - INFO - Cargando pesos desde: model/checkpoints/model_best.pt
+2026-01-22 12:31:02,262 - INFO - Modelo cargado correctamente
+2026-01-22 12:31:02,266 - INFO - Categorías: ['cObjetivo', 'cMedioempleado', 'cModusoperandi', 'cMedios_fuga', 'cElementos_sustraidos', 'cLocalizacion', 'cGenero_Sexo', 'cEdad', 'cRectificacion_Tipo', 'cRectificacion_Subtipo']
+2026-01-22 12:31:02,266 - INFO - ======================================================================
+2026-01-22 12:31:02,277 - INFO - API iniciada correctamente
+2026-01-22 12:31:21,701 - INFO - ======================================================================
+2026-01-22 12:31:21,702 - INFO - INICIANDO PREDICTOR DE INCIDENTES
+2026-01-22 12:31:21,702 - INFO - ======================================================================
+2026-01-22 12:31:21,702 - INFO - Dispositivo: cpu
+2026-01-22 12:31:21,702 - INFO - Cargando configuración desde: model/checkpoints/model_config.json
+2026-01-22 12:31:21,703 - INFO - Cargando mapeos desde: data/processed/label_maps.json
+2026-01-22 12:31:21,703 - INFO - Cargando tokenizer...
+2026-01-22 12:31:22,371 - INFO - Construyendo modelo Multi-Head BERT...
+2026-01-22 12:31:23,429 - INFO - Cargando pesos desde: model/checkpoints/model_best.pt
+2026-01-22 12:31:24,440 - INFO - Modelo cargado correctamente
+2026-01-22 12:31:24,440 - INFO - Categorías: ['cObjetivo', 'cMedioempleado', 'cModusoperandi', 'cMedios_fuga', 'cElementos_sustraidos', 'cLocalizacion', 'cGenero_Sexo', 'cEdad', 'cRectificacion_Tipo', 'cRectificacion_Subtipo']
+2026-01-22 12:31:24,440 - INFO - ======================================================================
+2026-01-22 12:31:24,455 - INFO - API iniciada correctamente
+2026-01-22 12:33:02,611 - INFO - ======================================================================
+2026-01-22 12:33:02,611 - INFO - INICIANDO PREDICTOR DE INCIDENTES
+2026-01-22 12:33:02,611 - INFO - ======================================================================
+2026-01-22 12:33:02,611 - INFO - Dispositivo: cpu
+2026-01-22 12:33:02,611 - INFO - Cargando configuración desde: model/checkpoints/model_config.json
+2026-01-22 12:33:02,611 - INFO - Cargando mapeos desde: data/processed/label_maps.json
+2026-01-22 12:33:02,611 - INFO - Cargando tokenizer...
+2026-01-22 12:33:03,327 - INFO - Construyendo modelo Multi-Head BERT...
+2026-01-22 12:33:04,381 - INFO - Cargando pesos desde: model/checkpoints/model_best.pt
+2026-01-22 12:33:06,096 - INFO - Modelo cargado correctamente
+2026-01-22 12:33:06,105 - INFO - Categorías: ['cObjetivo', 'cMedioempleado', 'cModusoperandi', 'cMedios_fuga', 'cElementos_sustraidos', 'cLocalizacion', 'cGenero_Sexo', 'cEdad', 'cRectificacion_Tipo', 'cRectificacion_Subtipo']
+2026-01-22 12:33:06,106 - INFO - ======================================================================
+2026-01-22 12:33:06,129 - INFO - API iniciada correctamente
+2026-01-22 12:36:01,455 - INFO - ======================================================================
+2026-01-22 12:36:01,455 - INFO - INICIANDO PREDICTOR DE INCIDENTES
+2026-01-22 12:36:01,455 - INFO - ======================================================================
+2026-01-22 12:36:01,455 - INFO - Dispositivo: cpu
+2026-01-22 12:36:01,455 - INFO - Cargando configuración desde: model/checkpoints/model_config.json
+2026-01-22 12:36:01,455 - INFO - Cargando mapeos desde: data/processed/label_maps.json
+2026-01-22 12:36:01,455 - INFO - Cargando tokenizer...
+2026-01-22 12:36:02,199 - INFO - Construyendo modelo Multi-Head BERT...
+2026-01-22 12:36:03,105 - INFO - Cargando pesos desde: model/checkpoints/model_best.pt
+2026-01-22 12:36:03,746 - INFO - Modelo cargado correctamente
+2026-01-22 12:36:03,746 - INFO - Categorías: ['cObjetivo', 'cMedioempleado', 'cModusoperandi', 'cMedios_fuga', 'cElementos_sustraidos', 'cLocalizacion', 'cGenero_Sexo', 'cEdad', 'cRectificacion_Tipo', 'cRectificacion_Subtipo']
+2026-01-22 12:36:03,746 - INFO - ======================================================================
+2026-01-22 12:36:03,746 - INFO - API iniciada correctamente
+2026-01-22 12:36:16,890 - INFO - ======================================================================
+2026-01-22 12:36:16,890 - INFO - INICIANDO PREDICTOR DE INCIDENTES
+2026-01-22 12:36:16,890 - INFO - ======================================================================
+2026-01-22 12:36:16,890 - INFO - Dispositivo: cpu
+2026-01-22 12:36:16,890 - INFO - Cargando configuración desde: model/checkpoints/model_config.json
+2026-01-22 12:36:16,890 - INFO - Cargando mapeos desde: data/processed/label_maps.json
+2026-01-22 12:36:16,890 - INFO - Cargando tokenizer...
+2026-01-22 12:36:17,515 - INFO - Construyendo modelo Multi-Head BERT...
+2026-01-22 12:36:18,296 - INFO - Cargando pesos desde: model/checkpoints/model_best.pt
+2026-01-22 12:36:18,871 - INFO - Modelo cargado correctamente
+2026-01-22 12:36:18,871 - INFO - Categorías: ['cObjetivo', 'cMedioempleado', 'cModusoperandi', 'cMedios_fuga', 'cElementos_sustraidos', 'cLocalizacion', 'cGenero_Sexo', 'cEdad', 'cRectificacion_Tipo', 'cRectificacion_Subtipo']
+2026-01-22 12:36:18,871 - INFO - ======================================================================
+2026-01-22 12:36:18,882 - INFO - API iniciada correctamente
+2026-01-22 12:39:35,323 - INFO - ======================================================================
+2026-01-22 12:39:35,323 - INFO - INICIANDO PREDICTOR DE INCIDENTES
+2026-01-22 12:39:35,323 - INFO - ======================================================================
+2026-01-22 12:39:35,324 - INFO - Dispositivo: cpu
+2026-01-22 12:39:35,324 - INFO - Cargando configuración desde: model/checkpoints/model_config.json
+2026-01-22 12:39:35,324 - INFO - Cargando mapeos desde: data/processed/label_maps.json
+2026-01-22 12:39:35,324 - INFO - Cargando tokenizer...
+2026-01-22 12:39:36,067 - INFO - Construyendo modelo Multi-Head BERT...
+2026-01-22 12:39:37,101 - INFO - Cargando pesos desde: model/checkpoints/model_best.pt
+2026-01-22 12:39:37,817 - INFO - Modelo cargado correctamente
+2026-01-22 12:39:37,818 - INFO - Categorías: ['cObjetivo', 'cMedioempleado', 'cModusoperandi', 'cMedios_fuga', 'cElementos_sustraidos', 'cLocalizacion', 'cGenero_Sexo', 'cEdad', 'cRectificacion_Tipo', 'cRectificacion_Subtipo']
+2026-01-22 12:39:37,818 - INFO - ======================================================================
+2026-01-22 12:39:37,830 - INFO - API iniciada correctamente
+2026-01-22 12:40:22,141 - INFO - 🔍 Predicción solicitada: TEST-001
+2026-01-22 12:40:23,036 - INFO - ✅ Predicción completada: TEST-001
+2026-01-22 12:44:27,354 - INFO - ======================================================================
+2026-01-22 12:44:27,354 - INFO - INICIANDO PREDICTOR DE INCIDENTES
+2026-01-22 12:44:27,354 - INFO - ======================================================================
+2026-01-22 12:44:27,354 - INFO - Dispositivo: cpu
+2026-01-22 12:44:27,354 - INFO - Cargando configuración desde: model/checkpoints/model_config.json
+2026-01-22 12:44:27,361 - INFO - Cargando mapeos desde: data/processed/label_maps.json
+2026-01-22 12:44:27,362 - INFO - Cargando tokenizer...
+2026-01-22 12:44:28,298 - INFO - Construyendo modelo Multi-Head BERT...
+2026-01-22 12:44:29,315 - INFO - Cargando pesos desde: model/checkpoints/model_best.pt
+2026-01-22 12:44:30,073 - INFO - Modelo cargado correctamente
+2026-01-22 12:44:30,073 - INFO - Categorías: ['cObjetivo', 'cMedioempleado', 'cModusoperandi', 'cMedios_fuga', 'cElementos_sustraidos', 'cLocalizacion', 'cGenero_Sexo', 'cEdad', 'cRectificacion_Tipo', 'cRectificacion_Subtipo']
+2026-01-22 12:44:30,073 - INFO - ======================================================================
+2026-01-22 12:44:30,081 - INFO - API iniciada correctamente
+2026-01-22 12:45:57,231 - INFO - ======================================================================
+2026-01-22 12:45:57,231 - INFO - INICIANDO PREDICTOR DE INCIDENTES
+2026-01-22 12:45:57,231 - INFO - ======================================================================
+2026-01-22 12:45:57,231 - INFO - Dispositivo: cpu
+2026-01-22 12:45:57,231 - INFO - Cargando configuración desde: model/checkpoints/model_config.json
+2026-01-22 12:45:57,231 - INFO - Cargando mapeos desde: data/processed/label_maps.json
+2026-01-22 12:45:57,231 - INFO - Cargando tokenizer...
+2026-01-22 12:45:57,936 - INFO - Construyendo modelo Multi-Head BERT...
+2026-01-22 12:45:58,931 - INFO - Cargando pesos desde: model/checkpoints/model_best.pt
+2026-01-22 12:46:00,038 - INFO - Modelo cargado correctamente
+2026-01-22 12:46:00,043 - INFO - Categorías: ['cObjetivo', 'cMedioempleado', 'cModusoperandi', 'cMedios_fuga', 'cElementos_sustraidos', 'cLocalizacion', 'cGenero_Sexo', 'cEdad', 'cRectificacion_Tipo', 'cRectificacion_Subtipo']
+2026-01-22 12:46:00,043 - INFO - ======================================================================
+2026-01-22 12:46:00,059 - INFO - API iniciada correctamente
+2026-01-22 12:47:05,243 - INFO - ======================================================================
+2026-01-22 12:47:05,243 - INFO - INICIANDO PREDICTOR DE INCIDENTES
+2026-01-22 12:47:05,243 - INFO - ======================================================================
+2026-01-22 12:47:05,243 - INFO - Dispositivo: cpu
+2026-01-22 12:47:05,244 - INFO - Cargando configuración desde: model/checkpoints/model_config.json
+2026-01-22 12:47:05,244 - INFO - Cargando mapeos desde: data/processed/label_maps.json
+2026-01-22 12:47:05,245 - INFO - Cargando tokenizer...
+2026-01-22 12:47:05,953 - INFO - Construyendo modelo Multi-Head BERT...
+2026-01-22 12:47:06,902 - INFO - Cargando pesos desde: model/checkpoints/model_best.pt
+2026-01-22 12:47:07,972 - INFO - Modelo cargado correctamente
+2026-01-22 12:47:07,981 - INFO - Categorías: ['cObjetivo', 'cMedioempleado', 'cModusoperandi', 'cMedios_fuga', 'cElementos_sustraidos', 'cLocalizacion', 'cGenero_Sexo', 'cEdad', 'cRectificacion_Tipo', 'cRectificacion_Subtipo']
+2026-01-22 12:47:07,981 - INFO - ======================================================================
+2026-01-22 12:47:07,982 - INFO - API iniciada correctamente
+2026-01-22 12:47:15,798 - INFO - ======================================================================
+2026-01-22 12:47:15,798 - INFO - INICIANDO PREDICTOR DE INCIDENTES
+2026-01-22 12:47:15,798 - INFO - ======================================================================
+2026-01-22 12:47:15,798 - INFO - Dispositivo: cpu
+2026-01-22 12:47:15,798 - INFO - Cargando configuración desde: model/checkpoints/model_config.json
+2026-01-22 12:47:15,799 - INFO - Cargando mapeos desde: data/processed/label_maps.json
+2026-01-22 12:47:15,799 - INFO - Cargando tokenizer...
+2026-01-22 12:47:16,422 - INFO - Construyendo modelo Multi-Head BERT...
+2026-01-22 12:47:17,432 - INFO - Cargando pesos desde: model/checkpoints/model_best.pt
+2026-01-22 12:47:18,252 - INFO - Modelo cargado correctamente
+2026-01-22 12:47:18,252 - INFO - Categorías: ['cObjetivo', 'cMedioempleado', 'cModusoperandi', 'cMedios_fuga', 'cElementos_sustraidos', 'cLocalizacion', 'cGenero_Sexo', 'cEdad', 'cRectificacion_Tipo', 'cRectificacion_Subtipo']
+2026-01-22 12:47:18,252 - INFO - ======================================================================
+2026-01-22 12:47:18,252 - INFO - API iniciada correctamente
+2026-01-22 12:51:33,518 - INFO - ======================================================================
+2026-01-22 12:51:33,518 - INFO - INICIANDO PREDICTOR DE INCIDENTES
+2026-01-22 12:51:33,518 - INFO - ======================================================================
+2026-01-22 12:51:33,518 - INFO - Dispositivo: cpu
+2026-01-22 12:51:33,518 - INFO - Cargando configuración desde: model/checkpoints/model_config.json
+2026-01-22 12:51:33,518 - INFO - Cargando mapeos desde: data/processed/label_maps.json
+2026-01-22 12:51:33,518 - INFO - Cargando tokenizer...
+2026-01-22 12:51:34,154 - INFO - Construyendo modelo Multi-Head BERT...
+2026-01-22 12:51:35,150 - INFO - Cargando pesos desde: model/checkpoints/model_best.pt
+2026-01-22 12:51:35,852 - INFO - Modelo cargado correctamente
+2026-01-22 12:51:35,852 - INFO - Categorías: ['cObjetivo', 'cMedioempleado', 'cModusoperandi', 'cMedios_fuga', 'cElementos_sustraidos', 'cLocalizacion', 'cGenero_Sexo', 'cEdad', 'cRectificacion_Tipo', 'cRectificacion_Subtipo']
+2026-01-22 12:51:35,852 - INFO - ======================================================================
+2026-01-22 12:51:35,881 - INFO - API iniciada correctamente
+2026-01-22 12:55:46,261 - INFO - 🔍 Predicción solicitada: TEST-001
+2026-01-22 12:55:47,062 - INFO - ✅ Predicción completada: TEST-001
+2026-01-22 12:56:10,727 - INFO - ======================================================================
+2026-01-22 12:56:10,727 - INFO - INICIANDO PREDICTOR DE INCIDENTES
+2026-01-22 12:56:10,727 - INFO - ======================================================================
+2026-01-22 12:56:10,727 - INFO - Dispositivo: cpu
+2026-01-22 12:56:10,727 - INFO - Cargando configuración desde: model/checkpoints/model_config.json
+2026-01-22 12:56:10,727 - INFO - Cargando mapeos desde: data/processed/label_maps.json
+2026-01-22 12:56:10,727 - INFO - Cargando tokenizer...
+2026-01-22 12:56:11,439 - INFO - Construyendo modelo Multi-Head BERT...
+2026-01-22 12:56:12,229 - INFO - Cargando pesos desde: model/checkpoints/model_best.pt
+2026-01-22 12:56:12,707 - INFO - Modelo cargado correctamente
+2026-01-22 12:56:12,707 - INFO - Categorías: ['cObjetivo', 'cMedioempleado', 'cModusoperandi', 'cMedios_fuga', 'cElementos_sustraidos', 'cLocalizacion', 'cGenero_Sexo', 'cEdad', 'cRectificacion_Tipo', 'cRectificacion_Subtipo']
+2026-01-22 12:56:12,707 - INFO - ======================================================================
+2026-01-22 12:56:12,715 - INFO - API iniciada correctamente
+2026-01-22 13:03:14,117 - INFO - ======================================================================
+2026-01-22 13:03:14,117 - INFO - INICIANDO PREDICTOR DE INCIDENTES
+2026-01-22 13:03:14,117 - INFO - ======================================================================
+2026-01-22 13:03:14,117 - INFO - Dispositivo: cpu
+2026-01-22 13:03:14,117 - INFO - Cargando configuraci�n desde: model/checkpoints/model_config.json
+2026-01-22 13:03:14,117 - INFO - Cargando mapeos desde: data/processed/label_maps.json
+2026-01-22 13:03:14,118 - INFO - Cargando tokenizer...
+2026-01-22 13:03:14,873 - INFO - Construyendo modelo Multi-Head BERT...
+2026-01-22 13:03:15,837 - INFO - Cargando pesos desde: model/checkpoints/model_best.pt
+2026-01-22 13:03:16,602 - INFO - Modelo cargado correctamente
+2026-01-22 13:03:16,602 - INFO - Categor�as: ['cObjetivo', 'cMedioempleado', 'cModusoperandi', 'cMedios_fuga', 'cElementos_sustraidos', 'cLocalizacion', 'cGenero_Sexo', 'cEdad', 'cRectificacion_Tipo', 'cRectificacion_Subtipo']
+2026-01-22 13:03:16,602 - INFO - ======================================================================
+2026-01-22 13:03:16,614 - INFO - API iniciada correctamente
+2026-01-23 06:05:34,614 - INFO - ======================================================================
+2026-01-23 06:05:34,614 - INFO - INICIANDO PREDICTOR DE INCIDENTES
+2026-01-23 06:05:34,614 - INFO - ======================================================================
+2026-01-23 06:05:34,614 - INFO - Dispositivo: cpu
+2026-01-23 06:05:34,614 - INFO - Cargando configuraci�n desde: model/checkpoints/model_config.json
+2026-01-23 06:05:34,619 - INFO - Cargando mapeos desde: data/processed/label_maps.json
+2026-01-23 06:05:34,629 - INFO - Cargando tokenizer...
+2026-01-23 06:05:35,810 - INFO - Construyendo modelo Multi-Head BERT...
+2026-01-23 06:05:36,919 - INFO - Cargando pesos desde: model/checkpoints/model_best.pt
+2026-01-23 06:05:38,686 - INFO - Modelo cargado correctamente
+2026-01-23 06:05:38,689 - INFO - Categor�as: ['cObjetivo', 'cMedioempleado', 'cModusoperandi', 'cMedios_fuga', 'cElementos_sustraidos', 'cLocalizacion', 'cGenero_Sexo', 'cEdad', 'cRectificacion_Tipo', 'cRectificacion_Subtipo']
+2026-01-23 06:05:38,689 - INFO - ======================================================================
+2026-01-23 06:05:38,725 - INFO - API iniciada correctamente
+2026-01-23 07:18:10,779 - INFO - 🔍 Predicción solicitada: N/A
+2026-01-23 07:18:11,881 - INFO - ✅ Predicción completada: N/A
+2026-01-23 07:20:15,404 - INFO - 🔍 Predicción solicitada: N/A
+2026-01-23 07:20:15,564 - INFO - ✅ Predicción completada: N/A
+2026-01-23 07:22:20,000 - INFO - 🔍 Predicción solicitada: N/A
+2026-01-23 07:22:20,137 - INFO - ✅ Predicción completada: N/A
+2026-01-23 07:22:29,570 - INFO - 🔍 Predicción solicitada: N/A
+2026-01-23 07:22:29,704 - INFO - ✅ Predicción completada: N/A
+2026-01-23 07:22:46,664 - INFO - 🔍 Predicción solicitada: N/A
+2026-01-23 07:22:46,845 - INFO - ✅ Predicción completada: N/A
+2026-01-23 07:23:21,300 - INFO - 🔍 Predicción solicitada: N/A
+2026-01-23 07:23:21,454 - INFO - ✅ Predicción completada: N/A
+2026-01-23 07:23:33,774 - INFO - 🔍 Predicción solicitada: N/A
+2026-01-23 07:23:33,925 - INFO - ✅ Predicción completada: N/A
+2026-01-23 07:24:24,499 - INFO - 🔍 Predicción solicitada: N/A
+2026-01-23 07:24:24,654 - INFO - ✅ Predicción completada: N/A
+2026-01-23 07:24:50,696 - INFO - 🔍 Predicción solicitada: N/A
+2026-01-23 07:24:50,849 - INFO - ✅ Predicción completada: N/A
+2026-01-23 07:25:18,830 - INFO - 🔍 Predicción solicitada: N/A
+2026-01-23 07:25:18,966 - INFO - ✅ Predicción completada: N/A
+2026-01-23 07:25:35,293 - INFO - 🔍 Predicción solicitada: N/A
+2026-01-23 07:25:35,427 - INFO - ✅ Predicción completada: N/A
+2026-01-23 07:28:20,352 - INFO - 🔍 Predicción solicitada: N/A
+2026-01-23 07:28:20,496 - INFO - ✅ Predicción completada: N/A
+2026-01-23 07:29:28,334 - INFO - 🔍 Predicción solicitada: N/A
+2026-01-23 07:29:28,485 - INFO - ✅ Predicción completada: N/A
+2026-01-23 07:30:21,919 - INFO - 🔍 Predicción solicitada: N/A
+2026-01-23 07:30:22,070 - INFO - ✅ Predicción completada: N/A
+2026-01-23 07:31:27,201 - INFO - 🔍 Predicción solicitada: N/A
+2026-01-23 07:31:27,343 - INFO - ✅ Predicción completada: N/A
+2026-01-23 07:32:04,766 - INFO - 🔍 Predicción solicitada: N/A
+2026-01-23 07:32:04,891 - INFO - ✅ Predicción completada: N/A
+2026-01-23 07:33:08,145 - INFO - 🔍 Predicción solicitada: N/A
+2026-01-23 07:33:08,374 - INFO - ✅ Predicción completada: N/A
+2026-01-23 07:33:33,135 - INFO - 🔍 Predicción solicitada: N/A
+2026-01-23 07:33:33,347 - INFO - ✅ Predicción completada: N/A
+2026-01-23 07:34:58,561 - INFO - 🔍 Predicción solicitada: N/A
+2026-01-23 07:34:58,786 - INFO - ✅ Predicción completada: N/A
+2026-01-23 07:36:25,687 - INFO - 🔍 Predicción solicitada: N/A
+2026-01-23 07:36:25,899 - INFO - ✅ Predicción completada: N/A
+2026-01-23 07:37:10,265 - INFO - 🔍 Predicción solicitada: N/A
+2026-01-23 07:37:10,418 - INFO - ✅ Predicción completada: N/A
+2026-01-23 07:37:56,535 - INFO - 🔍 Predicción solicitada: N/A
+2026-01-23 07:37:56,763 - INFO - ✅ Predicción completada: N/A
+2026-01-23 07:38:37,084 - INFO - 🔍 Predicción solicitada: N/A
+2026-01-23 07:38:37,316 - INFO - ✅ Predicción completada: N/A
+2026-01-23 07:41:29,102 - INFO - 🔍 Predicción solicitada: N/A
+2026-01-23 07:41:29,305 - INFO - ✅ Predicción completada: N/A
+2026-01-23 07:41:47,391 - INFO - 🔍 Predicción solicitada: N/A
+2026-01-23 07:41:47,606 - INFO - ✅ Predicción completada: N/A
+2026-01-23 07:42:03,336 - INFO - 🔍 Predicción solicitada: N/A
+2026-01-23 07:42:03,551 - INFO - ✅ Predicción completada: N/A
+2026-01-23 07:42:26,469 - INFO - 🔍 Predicción solicitada: N/A
+2026-01-23 07:42:26,675 - INFO - ✅ Predicción completada: N/A
+2026-01-23 07:42:38,335 - INFO - 🔍 Predicción solicitada: N/A
+2026-01-23 07:42:38,565 - INFO - ✅ Predicción completada: N/A
+2026-01-23 07:43:04,648 - INFO - 🔍 Predicción solicitada: N/A
+2026-01-23 07:43:04,870 - INFO - ✅ Predicción completada: N/A
+2026-01-23 07:47:48,477 - INFO - 🔍 Predicción solicitada: N/A
+2026-01-23 07:47:48,711 - INFO - ✅ Predicción completada: N/A
+2026-01-23 07:48:03,493 - INFO - 🔍 Predicción solicitada: N/A
+2026-01-23 07:48:03,710 - INFO - ✅ Predicción completada: N/A
+2026-01-23 07:48:18,897 - INFO - 🔍 Predicción solicitada: N/A
+2026-01-23 07:48:19,159 - INFO - ✅ Predicción completada: N/A
+2026-01-23 07:49:11,288 - INFO - 🔍 Predicción solicitada: N/A
+2026-01-23 07:49:11,497 - INFO - ✅ Predicción completada: N/A
+2026-01-23 07:49:28,448 - INFO - 🔍 Predicción solicitada: N/A
+2026-01-23 07:49:28,686 - INFO - ✅ Predicción completada: N/A
+2026-01-23 07:50:18,987 - INFO - 🔍 Predicción solicitada: N/A
+2026-01-23 07:50:19,206 - INFO - ✅ Predicción completada: N/A
+2026-01-23 08:18:32,044 - INFO - 🔍 Predicción solicitada: N/A
+2026-01-23 08:18:32,987 - INFO - ✅ Predicción completada: N/A
+2026-01-23 08:19:04,313 - INFO - 🔍 Predicción solicitada: N/A
+2026-01-23 08:19:04,467 - INFO - ✅ Predicción completada: N/A
+2026-01-23 08:19:21,507 - INFO - 🔍 Predicción solicitada: N/A
+2026-01-23 08:19:21,633 - INFO - ✅ Predicción completada: N/A
+2026-01-23 08:19:43,277 - INFO - 🔍 Predicción solicitada: N/A
+2026-01-23 08:19:43,415 - INFO - ✅ Predicción completada: N/A
+2026-01-23 08:19:55,324 - INFO - 🔍 Predicción solicitada: N/A
+2026-01-23 08:19:55,465 - INFO - ✅ Predicción completada: N/A
+2026-01-23 08:20:37,613 - INFO - 🔍 Predicción solicitada: N/A
+2026-01-23 08:20:37,738 - INFO - ✅ Predicción completada: N/A
+2026-01-23 08:20:57,078 - INFO - 🔍 Predicción solicitada: N/A
+2026-01-23 08:20:57,228 - INFO - ✅ Predicción completada: N/A
+2026-01-23 08:24:03,504 - INFO - 🔍 Predicción solicitada: N/A
+2026-01-23 08:24:03,644 - INFO - ✅ Predicción completada: N/A
+2026-01-23 08:28:47,810 - INFO - 🔍 Predicción solicitada: N/A
+2026-01-23 08:28:47,980 - INFO - ✅ Predicción completada: N/A
+2026-01-23 08:37:14,889 - INFO - 🔍 Predicción solicitada: N/A
+2026-01-23 08:37:15,818 - INFO - ✅ Predicción completada: N/A
